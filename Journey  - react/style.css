@@ -15,7 +15,7 @@ body{
     justify-content: center;
 }
 .logo{
- background-color: white;
+ color: white;
 }
 .nav > h1 {
     font-size: 14px;
